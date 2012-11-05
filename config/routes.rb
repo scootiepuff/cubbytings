@@ -1,4 +1,5 @@
 Cubbytings::Application.routes.draw do
+	resources :ting
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
