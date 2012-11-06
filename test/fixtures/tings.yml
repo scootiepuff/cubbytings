@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
-one:
-  name: MyString
-  qty: 1
+tp:
+  name: toilet paper
+  qty: 12
 
-two:
-  name: MyString
-  qty: 1
+lentils:
+  name: madras lentils
+  qty: 4
